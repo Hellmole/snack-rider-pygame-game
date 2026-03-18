@@ -201,7 +201,5 @@ Good for learning:
 -   retro game design
 
 
-
-
 This project is open-source.
-You can add your preferred license here, for example MIT.
+
